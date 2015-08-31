@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/boconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/ceaspect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/cecore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/celib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/ceplugins_core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/ceplugins_cr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/cereports.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/certjFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/cesession.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/CRDBJavabeansServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/CRDBJavaServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/CRDBJavaServerCommon.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/CRDBJDBCServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/CRDBXMLServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/crlov.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/crlovexternal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/crlovmanifest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/ebus405.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/freessl201.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/icu4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/pullparser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/ras21core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/rpoifs-14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/ssljFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/webreporting.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/corbaidl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/bcm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ShrAnand/Documents/iLabs/Proj 3 - Boe User Management/sdk/libs/cryptojFIPS.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
